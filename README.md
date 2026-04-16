@@ -1,3 +1,5 @@
+# User's Edge browser tabs metadata...
+edge_all_open_tabs = [...]
 # Nearbound AI — ROI-driven Hiring Platform
 
 This repository contains the core codebase for Nearbound AI, a platform designed to measure and maximize ROI in developer hiring.
